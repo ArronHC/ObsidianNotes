@@ -1,0 +1,18 @@
+formulas:
+  未命名: ""
+  未命名 2: ""
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - file.ctime
+      - tags
+      - file.folder
+    sort:
+      - property: file.folder
+        direction: ASC
+    columnSize:
+      file.ctime: 194
+  - type: cards
+    name: 视图
