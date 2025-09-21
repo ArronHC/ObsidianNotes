@@ -1,12 +1,15 @@
 ---
+title: Mermaid图表
+description: mermaid语法的介绍
 tags:
   - 笔记
-是否完成: true
-最后修改: 2025-09-04 14:59:09
-创建时间: 2025-09-02 18:11:51
+  - Markdown
+publishDate: 2025-09-02 18:11:51
+heroImage: { src: 'https://mermaid.nodejs.cn/hero-chart-dark.svg', inferSize: true }
+comment: true
 ---
 ## 介绍：
-- Mermaid 是用于**流程图绘制**的 Markdown 语法
+- Mermaid 是用于**流程图绘制**的 Markdown 
 - **示例**：
 ```mermaid
 flowchart TB

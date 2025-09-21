@@ -1,12 +1,14 @@
 ---
-创建时间: 2025-09-02 18:11:51
-最后修改: 2025-09-04 15:02:42
+title: Callout怎么用
+description: callout，用于在文档中创建**醒目、突出**的标签块所设计的语法
 tags:
-  - 笔记
-是否完成: true
+- 笔记
+- Markdown
+publishDate: 2025-09-02 18:11:51
+heroImage: { src: 'https://files.catbox.moe/jqski9.png', inferSize: true }
+comment: true
 ---
-## 介绍
-Callout 是用于在文档中创建**醒目、突出**的标签块所设计的语法。
+
 ## 语法
 ```Markdown
 > [!关键字]
@@ -23,6 +25,7 @@ Callout 是用于在文档中创建**醒目、突出**的标签块所设计的�
 	- `DANGER / ERROR`: 危险 / 错误
 	- `EXAMPLE` : 示例
 	- `QUOTE / CITE`：引用
+
 >[!note] 注意事项
 > 注意啦！
 

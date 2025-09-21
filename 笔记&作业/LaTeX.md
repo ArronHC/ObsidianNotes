@@ -1,10 +1,14 @@
 ---
-tags:
-  - 笔记
-是否完成: true
-创建时间: 2025-09-02 18:11:51
-最后修改: 2025-09-04 21:18:11
+title: LaTeX的学习笔记
+description: LaTeX，最好用的数学排版工具
+tags: 
+- 笔记
+- Markdown
+publishDate: 2025-09-02 18:11:51
+heroImage: { src: 'https://picx.zhimg.com/v2-2e9b7ef09c2c67fbd3c9a30b9a764a79_r.webp?source=172ae18b&consumer=ZHI_MENG', inferSize: true }
+comment: true
 ---
+
 ## 介绍
 LaTex（读作 "Lay-tek"）是一个排版工具，相比 Word 中用鼠标调整格式，LaTeX 全部采用代码来描述文档的结构和内容，再将其编译为 pdf 文档。
 ## 数学公式的输入方式
